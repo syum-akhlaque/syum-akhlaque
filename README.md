@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I am Md Akhlaqur Rahman Siddiqui 
-#### - mern stack development
+#### - mern stack developer
 From Bangladesh 
 
 - 🔭 I’m currently working on mern stack development
