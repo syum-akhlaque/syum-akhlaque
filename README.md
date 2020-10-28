@@ -5,7 +5,7 @@ From Bangladesh
 - 🔭 I’m currently working on mern stack development
 - 🌱 I’m currently learning Web development
 - 💬 Ask me about curicity...
-- ⚡ I am a Little man ...HAHAHA
+- ⚡ I am  ...HAHAHA
 
 ### Follow me
 ### Email:  arssyum@gmail.com
