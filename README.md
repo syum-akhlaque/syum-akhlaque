@@ -5,7 +5,7 @@ From Bangladesh
 
 - 🔭 I’m currently working on mern stack development
 - 🌱 I’m currently learning Web development
-- 💬 Ask me about curicity...
+- 💬 Ask me about your demand...
 - 💻 Always curious about new technology 🤩🤩
 - ⚡ I am  Problem Solver ...HAHAHA
 
