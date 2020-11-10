@@ -9,7 +9,7 @@ From Bangladesh
 - 💻 Always curious about new technology 🤩🤩
 - ⚡ I like to play badminton.
 
-#### Email:  arssyum@gmail.com
+#### Email: arssyum@gmail.com   || [Resume](https://drive.google.com/file/d/1r-q61vgO_p4pzo_5Z4fb9fFYbI8hKTby/view?usp=sharing)
 
 ### Connect with me:
 
