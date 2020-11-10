@@ -9,16 +9,13 @@ From Bangladesh
 - 💻 Always curious about new technology 🤩🤩
 - ⚡ I am  Problem Solver ...HAHAHA
 
-### Follow me
 ### Email:  arssyum@gmail.com
 
-### [Linked iN]( https://www.linkedin.com/in/md-akhlaqur-rahman-siddiqui-syum-832510139/)   [Resume](https://drive.google.com/file/d/1r-q61vgO_p4pzo_5Z4fb9fFYbI8hKTby/view?usp=sharing)
-<br>
 ### Connect with me:
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/md-akhlaqur-rahman-siddiqui-syum-832510139/)
-[!
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/syum.akhlaque.5) [!
+[LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/md-akhlaqur-rahman-siddiqui-syum-832510139/)
+
+[Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/syum.akhlaque.5) [!
 
 <br />
 
