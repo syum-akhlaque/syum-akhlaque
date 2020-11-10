@@ -5,9 +5,9 @@ From Bangladesh
 
 - 🔭 I’m currently working on mern stack development
 - 🌱 I’m currently learning Web development
-- 💬 Ask me about your demand...
+- 💬 Ask me about anything...
 - 💻 Always curious about new technology 🤩🤩
-- ⚡ I am  Problem Solver ...HAHAHA
+- ⚡ I like to play badminton.
 
 ### Email:  arssyum@gmail.com
 
