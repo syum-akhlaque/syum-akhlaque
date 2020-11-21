@@ -38,9 +38,16 @@ From Bangladesh
 3. [Travel Guru](https://volunteer-network-22.web.app/)
 4. [Athena Design](https://design-athena.web.app/)
 5. [E-school](https://syum-akhlaque.github.io/e-school/)
-6. [Hero Portfolio](https://syum-akhlaque.github.io/hero-portfolio/)
-7. [React Portfolio](https://angry-payne-9e88c2.netlify.app/)
-8. [Apartment Hunt](https://apartment-hunt-team.web.app/)
+6. [React Portfolio](https://angry-payne-9e88c2.netlify.app/)
+7. [Apartment Hunt](https://apartment-hunt-team.web.app/)
+
+##### Small project:
+1. [Hero Portfolio](https://syum-akhlaque.github.io/hero-portfolio/)
+2. [Search Lyrics](https://syum-akhlaque.github.io/search-lyrics/)
+3. [World Weather](https://syum-akhlaque.github.io/world-weather/)
+4. [Shoping Cart](https://syum-akhlaque.github.io/shopping-cart/)
+5. [Pioneer Bank](https://syum-akhlaque.github.io/pioneer-bank/)
+6. [Pin Matcher](https://github.com/syum-akhlaque/pin-matcher)
 
 
 
