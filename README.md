@@ -13,7 +13,7 @@ From Bangladesh
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/md-akhlaqur-rahman-siddiqui-syum-832510139/)
  [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/syum.akhlaque.5)
- #### Email: arssyum@gmail.com   || [Resume](https://drive.google.com/file/d/1r-q61vgO_p4pzo_5Z4fb9fFYbI8hKTby/view?usp=sharing) || [Portfolio](https://angry-payne-9e88c2.netlify.app/)
+ #### Email: arssyum@gmail.com   || [Resume](https://drive.google.com/file/d/1-iSO-Q0sHyiN5NROCtNtMbBwy91MaYI2/view?usp=sharing) || [Portfolio](https://angry-payne-9e88c2.netlify.app/)
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
