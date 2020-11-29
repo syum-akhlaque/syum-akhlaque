@@ -7,7 +7,7 @@ From Bangladesh
 - 🌱 I’m currently learning Web development
 - 💬 Ask me about anything...
 - 💻 Always curious about new technology 🤩🤩
-- ⚡ I like to play badminton.
+- ⚡ I like to play badminton. 🤩🤩
 
 ### Connect with me:
 
@@ -35,21 +35,21 @@ From Bangladesh
 
 1. [Creative Agency](https://creative-agency-22.web.app/)
 2. [E-Bazar](https://e-bazar-22.netlify.app/)
-2. [Volunteer Network](https://volunteer-network-22.web.app/)
-3. [Travel Guru](https://volunteer-network-22.web.app/)
-4. [Athena Design](https://design-athena.web.app/)
-5. [E-school](https://syum-akhlaque.github.io/e-school/)
-6. [React Portfolio](https://akhlaque.netlify.app/)
-7. [Apartment Hunt](https://apartment-hunt-team.web.app/)
+3. [Volunteer Network](https://volunteer-network-22.web.app/)
+4. [Travel Guru](https://volunteer-network-22.web.app/)
+5. [Athena Design](https://design-athena.web.app/)
+6. [E-school](https://syum-akhlaque.github.io/e-school/)
+7. [React Portfolio](https://akhlaque.netlify.app/)
+8. [Apartment Hunt](https://apartment-hunt-team.web.app/)
 
 ##### Small project:
 1. [Hero Portfolio](https://syum-akhlaque.github.io/hero-portfolio/)
 2. [Search Lyrics](https://syum-akhlaque.github.io/search-lyrics/)
 3. [World Weather](https://syum-akhlaque.github.io/world-weather/)
 4. [Simple-blog](https://meterialui-blogs.netlify.app/)
-6. [Shoping Cart](https://syum-akhlaque.github.io/shopping-cart/)
-5. [Pioneer Bank](https://syum-akhlaque.github.io/pioneer-bank/) 
-6. [Pin Matcher](https://github.com/syum-akhlaque/pin-matcher)
+5. [Shoping Cart](https://syum-akhlaque.github.io/shopping-cart/)
+6. [Pioneer Bank](https://syum-akhlaque.github.io/pioneer-bank/) 
+7. [Pin Matcher](https://github.com/syum-akhlaque/pin-matcher)
 
 
 
