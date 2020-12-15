@@ -34,10 +34,10 @@ From Bangladesh
 ### Some of my project:
 
 1. [Creative Agency](https://creative-agency-22.web.app/)
-2. [E-Bazar](https://e-bazar-22.netlify.app/)
-3. [Volunteer Network](https://volunteer-network-22.web.app/)
-4. [Travel Guru](https://travel-guru-3d05c.web.app/)
-5. [Athena Design](https://design-athena.web.app/)
+2. [Volunteer Network](https://volunteer-network-22.web.app/)
+3. [Travel Guru](https://travel-guru-3d05c.web.app/)
+4. [Athena Design](https://design-athena.web.app/)
+5. [E-Bazar](https://e-bazar-22.netlify.app/)
 6. [E-school](https://syum-akhlaque.github.io/e-school/)
 7. [React Portfolio](https://akhlaque.netlify.app/)
 8. [Apartment Hunt](https://apartment-hunt-team.web.app/)
