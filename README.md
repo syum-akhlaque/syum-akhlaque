@@ -3,8 +3,7 @@
 #### - MERN stack developer
 From Bangladesh 
 
-- 🔭 I’m currently working on mern stack development
-- 🌱 I’m currently learning Web development
+- 🔭 I’m currently working as Frontend Developer
 - 💬 Ask me about anything...
 - 💻 Always curious about new technology 🤩🤩
 - ⚡ I like to play badminton. 🤩🤩
