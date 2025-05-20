@@ -10,7 +10,7 @@ From Bangladesh
 
 ### Connect with me:
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/md-akhlaqur-rahman-siddiqui-syum-832510139/)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/akhlaque-dev)
  [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/syum.akhlaque.5)
  #### Email: arssyum@gmail.com   || [Resume](https://drive.google.com/file/d/1aMld1xZHPRUMeungnrEwDY0SLEv6zw_U/view?usp=sharing) 
 
